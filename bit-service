@@ -6,7 +6,7 @@
   tasks: 
    - name: Remove a service
       win_service:
-       name: bit
+       name: bits
        state: stopped
         
 ...
